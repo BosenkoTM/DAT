@@ -2,17 +2,11 @@
 
 ## Лекции
 
-`01-ЛЕКЦИЯ` 
- 
-  [Библиотека для быстрых вычислений над многомерными матрицами Numpy](/lectures/02-theory-numpy.ipynb)
+`01-ЛЕКЦИЯ`.[Библиотека для быстрых вычислений над многомерными матрицами Numpy](/lectures/02-theory-numpy.ipynb).
 
-`02-ЛЕКЦИЯ`
-  
-  [Библиотека для анализа данных Pandas](/lectures/03-theory-pandas.ipynb)
+`02-ЛЕКЦИЯ`.[Библиотека для анализа данных Pandas](/lectures/03-theory-pandas.ipynb).
 
-`03-ЛЕКЦИЯ`
-  
-  [Визуальный анализ данных](/lectures/04-theory-visualisation.ipynb)
+`03-ЛЕКЦИЯ`.[Визуальный анализ данных](/lectures/04-theory-visualisation.ipynb).
 
 ## Задание
 
