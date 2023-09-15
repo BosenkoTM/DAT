@@ -1,4 +1,4 @@
-# python-data-analysis-tools
+# Data Analysis Tools
 
 ## Лекции
 
