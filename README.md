@@ -19,7 +19,7 @@
 
 `Домашная работа 3-1`. [Визуальный анализ](/hw/05-hw-visualisation.ipynb).
 
-`Домашная работа 3-2`. [Визуальный анализ Pandas](/06-hw-visualization-pandas.ipynb).
+`Домашная работа 3-2`. [Визуальный анализ Pandas](/hw/06-hw-visualization-pandas.ipynb).
 
 
 ## Pandas
