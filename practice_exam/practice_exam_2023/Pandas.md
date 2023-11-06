@@ -3,7 +3,7 @@
 Выполните следующее практическое задание:
 
 ## Задание 1
-- Скачать данные по [ссылке 1](https://www.kaggle.com/datasets/esratmaria/house-price-dataset-with-other-information) или же [ссылке 2](https://drive.google.com/file/d/1IhdoUFdSGdk6Hc0KC-lFHDop0X9M7M4t)
+- Скачать данные по [ссылке 1](https://www.kaggle.com/datasets/esratmaria/house-price-dataset-with-other-information) или же [ссылке 2](https://github.com/BosenkoTM/DAT/blob/main/datasets/archive_pandas.zip)
 - Считать данные с помощью `pandas`.
 - Вывести на экран первые `5` строк.
 ## Задание 2
